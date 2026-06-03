@@ -276,4 +276,3 @@ Pocketcraft_ligand-scale/
 
 ## Citation
 
-If you use PocketCraft Ligand-Scale in your work, please cite the PocketCraft project.
